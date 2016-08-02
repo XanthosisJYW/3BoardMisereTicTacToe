@@ -1,10 +1,11 @@
 # 3-Board Misere Tic-Tac-Toe
 The repository for assignment 2 of COMP7404A.
 
-## Description
+## Descriptions
 
 - *auxTicTacToe.py* is just used to generate the dictionary for speeding up the computation of status utilities;
-- *solveTicTacToe.py* is the main file for playing the 3-Board Misere Tic-Tac-Toe. For more information about this game, please check the references.
+- *solveTicTacToe.py* is the main file for playing the 3-Board Misere Tic-Tac-Toe;
+- For more information about this game, please check the references.
 
 ## References
 
